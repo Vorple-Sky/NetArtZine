@@ -1,0 +1,35 @@
+.container{
+    display: flex;
+    width: 80%;
+    margin: auto;
+    height: 1000px;
+    background-color: blue;
+
+}
+
+a{
+    font-size: 50px;
+    color: white;
+    
+}
+
+#prev{
+    width: 10%;
+    border: 3px solid magenta;
+}
+
+#next{
+    width: 10%;
+    border: 3px solid magenta;
+}
+
+#left-page{
+    width: 40%;
+    border: 3px solid magenta;
+}
+
+#right-page{
+    width: 40%;
+    border: 3px solid magenta;
+}
+
